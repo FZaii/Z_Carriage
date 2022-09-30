@@ -1,20 +1,22 @@
 # FZ-Carriage-CC
-给大鱼CC 3D打印机设计的一款Z轴方案 
-> [Different designs of the Z axis for the DaYu CC 3D parinter]
+给大鱼CC 3D打印机设计的一款双Z轴方案 
+> [Different designs of the Double Z axis for the DaYu CC 3D parinter]
 ![FZ-Carriage-CC](Images-效果图/FZ-Carriage-CC.png)
 
 ### 主要功能
-> - [x] 远程挤出 （也有用Sherpa近程挤出的版本）
-> - [x] E3D V6热端
-> - [x] 4010热端风扇
-> - [x] 4020物料风扇
-> - [x] BLTouch安装位
-> - [x] klicky probe安装位
-> - [x] ADXL 345安装位
+> - [x] BLV式Z轴
+> - [x] 推力球轴承式解耦
+> - [x] 限位可微调
 
 ### 更新历史
-> [Ver 1.3] 2022.09.11
-> - 改动了挺多，应该是大鱼CC的最后一个版本了。
->   
-> [Ver 1.2] 2022.6.15
-> - 新增 - 热端固定位置选择。配合4个“3.x热端固定件”可以实现热端的上下微调。（0~4号固定件，1号为默认，每增1号使热端上移0.5mm。选择合适的固定件，使喷嘴与风口底面距离在0.5mm左右）
+> [Ver 1.1] 2022.09.30
+
+
+### 备注
+> - 步进电机支架有两种方案
+  > >   (1)商品标准件支架+打印导向块
+  > > 
+  > >   (2)voron 1.9 Z电机支架
+  > > 
+> - 推力球轴承式解耦灵感来源 B站up主“一只画风独特的Aouk” 
+  > >   视频地址：https://www.bilibili.com/video/BV1DZ4y1y7JN?share_source=copy_web
