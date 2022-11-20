@@ -1,7 +1,7 @@
-<h1 align="center">FZ Carriage CC</h1>
+<h1 align="center">FZ Z-Carriage CC</h1>
 
-**<p align="center">给大鱼CC 3D打印机设计的一款双Z轴方案**
-<p align="center">[Designs of the dual Z-axis for the DaYu CC 3D parinter]
+**<p align="center">给大鱼CC 3D打印机设计的一款双Z轴方案</p>**
+<p align="center">[Designs of the dual Z-axis for the DaYu CC 3D parinter]</p>
 
  ---
  
