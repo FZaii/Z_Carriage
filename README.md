@@ -1,7 +1,7 @@
-<h1 align="center">FZ Z-Carriage CC</h1>
+<h1 align="center">FZ Z-Carriage</h1>
 
-**<p align="center">给大鱼CC 3D打印机设计的一款双Z轴方案</p>**
-<p align="center">[Designs of the dual Z-axis for the DaYu CC 3D parinter]</p>
+**<p align="center">3D打印机双Z轴改装方案</p>**
+<p align="center">[Designs of the dual Z-axis for 3D parinter]</p>
 
  ---
  
@@ -11,9 +11,11 @@
 
 ## 主要功能
 > - [x] BLV式Z轴
-> - [ ] 推力球轴承式解耦(！！上机测试处了点问题，推迟……推迟……推迟……！！) 
 > - [x] 限位快速微调
+> - [ ] 推力球轴承式解耦(！！上机测试处了点问题，推迟……推迟……推迟……！！)
 
+ ![FZ-Carriage-BOM](BOM表.png)
+ 
 ## 更新历史
 > **[Ver 1.1]** 2022.10.01
 >  (！！上机测试处了点问题，推迟……推迟……推迟……！！) 
