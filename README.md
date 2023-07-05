@@ -22,8 +22,8 @@
 > - [x] 限位快速微调（Z轴双限位时可用）
 
 ## 备注
-- 步进电机支架有两种方案
- > **商品金属标准件支架**   *>>>或者是<<<*   **打印件** [*Voron Trident 1.9-Z电机支架*](https://github.com/VoronDesign/Voron-Trident)
+   **步进电机支架有两种方案**
+ >  <<< **商品金属标准件支架**   *>>>或者是<<<*   **打印件** [*Voron Trident的Z电机支架*](https://github.com/VoronDesign/Voron-Trident) >>>
 
 ## BOM 物料清单
 ![FZ-Carriage-BOM](BOM表.png)
